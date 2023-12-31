@@ -1,0 +1,24 @@
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="SPORT.TV1	
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:-1 tvg-id="Benfica tv
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Benfica_TV_1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1 tvg-id=SPORT.TV2
+https://po2.ainakwalajeen.com:999/hls/spt2pt.m3u8?md5=Px1n52Rf2lRbJReivPToOg&expires=1704025229
+#EXTINF:-1 tvg-id=SPORT.TV2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1 tvg-id=SPORT.TV3
+https://tvembed.net/spt3/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=22bd3965306770d33da04cc85c559c4c57cc3a59-d463fc26b23c2897ad8eaad566035ec7-1704025264-1704018064
+#EXTINF:-1 tvg-id=SONY MOVIES
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-3-main.m3u8
+#EXTINF:-1 tvg-id=CINE AÇÃO
+https://tvembed.net/filme-acao/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=5042818a23e29bfbcac9627f8d2a487bd48f8aba-07ee112f0a46cfc23ed7ea5a5156c12a-1704025592-1704018392
+#EXTINF:-1 tvg-id=MYTIME MOVIE
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id=HBO XTREME
+https://tvembed.net/hbo-xtreme/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=39f8d5b6504babb9353262640cf17ebc08eab9c0-d8c4a761a6642392ecc3912a4aa278a9-1704025926-1704018726
